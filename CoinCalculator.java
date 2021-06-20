@@ -1,3 +1,5 @@
+//This is a beginner level coin calculator, I added in comments so that it's easier to understand the purpose of each line!
+
 import java.util.*;
 
 public class CoinCalculator {
